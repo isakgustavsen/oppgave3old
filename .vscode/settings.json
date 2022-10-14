@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/isakgustavsen/Downloads/Oppgave3 2",
+            "binaryPath": "/Users/isakgustavsen/Downloads/Oppgave3 2/app",
+            "binaryArgs": []
+        }
+    ]
+}
